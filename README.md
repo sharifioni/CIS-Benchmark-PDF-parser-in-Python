@@ -85,11 +85,3 @@ directory = "/path/to/your/pdf/files"
 This project is licensed under the MIT License.
 ```
 
-### Markdown Features Used:
-
-1. **Headers** (`#` for main headers, `##` for sub-headers, etc.)
-2. **Code blocks** (triple backticks for `bash` and Python code examples).
-3. **Lists** (`-` or `*` for unordered lists, `1.` for ordered lists).
-4. **Inline code** (using backticks for `filename`, `pip install`, etc.).
-
-Now everything is properly formatted as Markdown. You can copy and paste this into a `README.md` file. Let me know if you'd like any additional tweaks!
